@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "nO9pkJDG0XyCTytPghOikbZPDIf/vPnyA9Ey6sUnIRbufTDgZ1N7rMPHNtBLDfhOT0h6bbfW4mH4gjyTaZsNYg==",
+  "success": false,
+  "projectFilePath": "E:\\GameUnknown\\ChatSocial\\ChatSocialSvc\\ChatSocialSvc.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

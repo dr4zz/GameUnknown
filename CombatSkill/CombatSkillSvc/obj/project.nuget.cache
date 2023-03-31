@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "ye4Lg0Tq+lRk1yHCzL1wL78c/9rIf34V+dU6/B8kF3tErAQePlYmf9czTUnAoVmLVfPZ6dFlHcvI85cuuch8Zw==",
+  "success": false,
+  "projectFilePath": "E:\\GameUnknown\\CombatSkill\\CombatSkillSvc\\CombatSkillSvc.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

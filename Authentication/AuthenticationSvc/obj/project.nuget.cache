@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "nMFgsO1RJ39K1UT0vgUFnkeFiQbTdY+HDfweKTXoqe7QgF61aUwYhJ9bgusKpgyTOHiwo1DQknWks9iktbuK9A==",
+  "success": false,
+  "projectFilePath": "E:\\GameUnknown\\AuthenticationSvc\\AuthenticationSvc\\AuthenticationSvc.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

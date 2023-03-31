@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qjyM1rMSISYzlmvkzJC5T3U3UWIhSwU8GWhF7J9IpQirhJrCHdE0TLvLiCbeW1uFCZN0g8x/YhLDL4wfUnVJQ==",
+  "success": false,
+  "projectFilePath": "E:\\GameUnknown\\NPCAI\\NPCAISvc\\NPCAISvc.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Swashbuckle.AspNetCore. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
